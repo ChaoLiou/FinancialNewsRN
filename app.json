@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "MarketInfoApp",
+    "icon": "",
+    "version": "1.0.0",
+    "slug": "your-app-slug",
+    "sdkVersion": "28.0.0",
+    "ios": {
+      "bundleIdentifier": "com.marketinfo"
+    },
+    "android": {
+      "package": "com.marketinfo"
+    }
+  }
+}
